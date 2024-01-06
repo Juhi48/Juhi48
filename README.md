@@ -1,5 +1,11 @@
-<h1 align="center">Hello!!, I'm Juhi Kumari</h1>
-<h3 align="center">I am a Software Engineer</h3>
+
+![logo](https://github.com/Juhi48/Juhi48/blob/main/abc.png)
+<h5 >👋 Hello World! I'm Juhi48, a passionate software enthusiast on a journey through the realms of code.</h5>
+<h5>🌐 Contributing to open-source projects and building a community-driven future. Collaboration fuels my creativity, and I believe in the power of shared knowledge.</h5>
+<h5>📚 Lifelong learner: Every bug is an opportunity to learn, and every commit is a step towards mastery. Let's grow and evolve together!</h5>
+
+
+<img align="right" alt="coding" width ="400" src="https://github.com/Juhi48/Juhi48/blob/main/juhi_48github.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juhi48&label=Profile%20views&color=0e75b6&style=flat" alt="juhi48" /> </p>
 
